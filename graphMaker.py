@@ -269,7 +269,7 @@ def pieChart():
 if __name__ == "__main__": 
 
 
-	RollNo_Entered = 197045#nput("Enter your Rollno : ")
+	RollNo_Entered = input("Enter your Rollno : ")
 
 	RollNo_Entered_x, Cgpa_Entered, Name_Entered = studentDataCollector(RollNo_Entered)
 

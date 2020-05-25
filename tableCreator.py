@@ -7,11 +7,11 @@ import sys
 
 
 database = 'STASTISTICAL_DATA_ANALYSIS'
-user = 'user_name'
-password = 'your_password'
-branchName = "Chemical_2019" # Table Name
+user = 'user_name'  # <<<<--- Change here
+password = 'your_password' # <<<<--- Change here
+branchName = "Chemical_2019" # Table Name  # <<<<--- Change here
 
-path_of_json_file = "/home/raman-pop/GitHubRepos/statistical-data-analysis/model/Nith_results/result/json/Chemical/batch_19_sgpi.json"
+path_of_json_file = "path/to/json/file"  # <<<<--- Change here
 
 
 # creating table
