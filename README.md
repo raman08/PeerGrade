@@ -34,7 +34,7 @@ source venv/bin/activate
 ```
 # Installing Requirments
 
-pip install -r requirments.txt
+pip install -r requirements.txt
 
 ```
 
@@ -49,9 +49,7 @@ To create tables first create a database named STASTISTICAL_DATA_ANALYSIS in you
 mysql> create database STASTISTICAL_DATA_ANALYSIS;
 mysql> use STASTISTICAL_DATA_ANALYSIS;
 
-
 ```
-
 
 ```
 # using tableCreator.py to create the table
@@ -59,7 +57,6 @@ mysql> use STASTISTICAL_DATA_ANALYSIS;
 python3 tableCreator.py
 
 ```
-
 
 ```
 
