@@ -76,7 +76,7 @@ Now just enter your Rollo and your progress is displayed
 ## Contributors
 
 1. Anurag Verma 
-2. Ishan Aggarwal 
+2. [Ishan Agarwal](https://github.com/ishanagg2001)
 
 ### Special Thanks 
 
