@@ -1,4 +1,4 @@
-# Statistical-Data-Analysis
+# PeerGrade
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/raman08/Statistical-Data-Analysis)
 
 
